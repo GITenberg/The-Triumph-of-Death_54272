@@ -1,5 +1,5 @@
 _repo: The-Triumph-of-Death_54272
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Trionfo della morte. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '6570'
     url: http://www.gutenberg.org/2009/agents/6570
+covers:
+- cover_type: archival
+  image_path: 54272-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54272#The-Triumph-of-Death
 gutenberg_issued: '2017-03-02'
 gutenberg_type: Text
 identifiers:
