@@ -1,0 +1,37 @@
+_repo: The-Triumph-of-Death_54272
+_version: 0.0.1
+alternative_title: Trionfo della morte. English
+contributor:
+  translator:
+    agent_name: Hornblow, Arthur
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '6570'
+    url: http://www.gutenberg.org/2009/agents/6570
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    - Annunzio, Gabriele d'
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+description: ''
+gutenberg_issued: '2017-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- Translations into English'
+- GITenberg
+title: The Triumph of Death
+url: http://www.gutenberg.org/ebooks/54272
